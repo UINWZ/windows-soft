@@ -6,3 +6,4 @@
 - Xmind;
 - Xshell;
 - OneNote;
+- ProxifierSetup;
